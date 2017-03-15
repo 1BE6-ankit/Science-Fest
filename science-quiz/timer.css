@@ -1,0 +1,24 @@
+#seconds {
+    fill: #15ad15;
+}
+
+#mainCircle,
+#mainCircle2 {
+    fill: #fff;
+    stroke: #15ad15;
+    stroke-width: 10;
+    stroke-dashoffset: 0;
+    stroke-dasharray: 380;
+}
+
+#ghostCircle,
+#ghostCircle2 {
+    fill: #fff;
+    stroke: #fff;
+    stroke-width: 10;
+}
+
+#mainCircle2 {
+    transition: all 5s linear;
+    stroke-dashoffset: 190;
+}

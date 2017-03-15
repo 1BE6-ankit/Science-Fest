@@ -1,0 +1,8 @@
+1 In how many wasy can these resistors be connected?
+	- 4
+
+2 The building shown is a part of which recent ground breaking research project?
+	- LIGO
+3 What component is shown in the picutre?
+	-Transistor
+

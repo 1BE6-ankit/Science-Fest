@@ -1,0 +1,18 @@
+1 What is the name of the component shown in the picture?
+	-Capacitor
+2 What are the substances showing, such magnetic properties called?
+	- Diamagnetic
+3 In terms of electrostatics, what is the bigger bubble acting as?
+	- Faraday's cage (a surface that holds the charges on its surface and doesn't allow regions inside it to 	experience an electic field)
+4 What elementary particle is circled in red in the picture?
+	- Gluon
+5 What is the phenomenon demostrated by the device in the video?
+	-Gyration
+6 How does the candle relight, when the flame is not put over the fuse, but besides it?
+	- The evaporated wax due to the candle burning previously provides a way for the flame to burn through it and reach the fuse
+7 Why does the smaller glass beaker seem to disapper?
+	- The liquid and the glass beaker have the same refractive index, so light passes unbent and it seems like it has 	travelled through only one medium
+8 What experiment is demostrated in the video?
+	-  Rutherford's alfa scatter experiment
+
+

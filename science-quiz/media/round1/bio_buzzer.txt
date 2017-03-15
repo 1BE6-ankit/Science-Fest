@@ -1,0 +1,20 @@
+1- 2nd degree burn
+
+2- PAM sequence clamp (Img is of CAS-9 DNA editing... what is the given sequence called?)
+
+3-  Given image is an X-Ray of a very common disease associated with ageing. Identify this disease. Ans- Arthritis
+
+4- Small blood vessels in the bone and surrounding muscle tissues often rupture during a condition of the highlighted bone, causing hematoma. Identify this condition. Ans- Fracture
+
+5- DNA polymerase clamp. accept dna polymerase 3 but not just dna polymerase only (A protein involved in eukaryotic dna replication that binds DNA polymerase and prevents this enzyme from dissociating from the template DNA strand)
+
+6- What pigment is responsible for the given phenotypic character of the eye? Ans- Melanin
+
+7- What is the actual name of the photosystem-2 (PS-II) involved in the light dependent reactions of photosynthesis?
+	Ans- water-plastoquinone oxidoreductase
+
+8- Deposit of what causes the white ring shown in the image (Please note that the condition is Arcus senilis)
+	Ans- Cholestrol
+
+
+

@@ -1,0 +1,27 @@
+1 What is the picture shown, a symbol of?
+	- Relay (magnetic relay)
+5 What is the name of the device shown in the diagram/
+	- Surface Condensor(Condensor)
+6 What is the name of the device shown in the video
+	- Cubli
+7 What is the white cotton-like substance?
+	-Nitrocellulose (gun cotton)
+4 The white powder is a common household chemical. What is it? 
+	Ans- Baking powder(Sodium Carbonate)
+2 What is the name of the insect shown in the picture?
+	-Black peppered moth/ (Biston Betularia)
+8 What is the name of the plant shown in the picture
+	-Sundew(Drosera)
+3 What is wrong about the pressure-position graph of a wave shown in the figure?
+	- The particle at the open end of the tube has no displacement
+9 What is the ammeter reading in the circuit?
+	-0 A
+10 Where is the north pole of the solenoid if the arrows indicate the direction of flow of current?
+	- Right
+11 If the gradient/slope of the line is -0.0591, what might the relation between Ecell and log(A/B)?
+	Ecell=-0.0591*log(A/B) 
+12 What is the ammeter reading in the circuit?
+	-0 A
+13 What is the name of the polymer shown in the figure?
+	- Teflon
+14 
