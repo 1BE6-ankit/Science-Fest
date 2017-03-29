@@ -18,7 +18,7 @@ The server should have PHP installed before getting the app up and running. If n
   1. Open the installer.
 
 With all the tools set up, now you can start using the app by following these steps:
-  1. By default the php project folders or the _localhost_ for php is **lampp/htdocs** (linux), so download the _Science Fest_ project folder from github and paste into the **htdocs** folder. Or, from the terminal open the htdocs folder and clone the repository: _**git clone https://github.com/1BE6-ankit/Science-Fest.git**_.  
+  1. By default the php project folders or the _localhost_ for php is **lampp/htdocs** (This is for xampp, it is different for wampp), so download the _Science Fest_ project folder from github and paste into the **htdocs** folder. Or, from the terminal open the htdocs folder and clone the repository: _**git clone https://github.com/1BE6-ankit/Science-Fest.git**_.  
   1. Now, you need to set up MySQL databases for the quizes. To set up the database:
       1. Open __localhost/phpmyadmin__ from your browser.
       1. Click New, and then name the database **math-round1**
