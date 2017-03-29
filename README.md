@@ -28,7 +28,7 @@ With all the tools set up, now you can start using the app by following these st
             $db_database = 'math-round1';
          ```
        1. With this you would have set up a database for Math-Quiz. You can modify the database as per your requriement. And remember that, each quiz has its own database file and the process for setting up the database for other quiz is same as above.
-  1. With the database ready, you are ready to test the app:
+  1. With the database ready, you are ready to run the app:
       1. In the following steps you are making a sinple computer act both as client and the server. So open two windows of your browser and snap them so you can see both the windows and see the program working.
       1. In one window open localhost/Science-Fest/math-quiz/admin.php. Enter the required number of users and type the corresponding name (!! The player name should start from alphabets with no special characters). After typing the names you should see an UI for admin control panel. 
       1. Now in the other window type: localhost/Science-Fest/math-quiz/ . Press continue.
