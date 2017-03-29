@@ -9,12 +9,12 @@ sent.
 ## Setting up the software environment and running the app
 The server should have PHP installed before getting the app up and running. If not already installed, follow these steps to installed PHP in your system:
 - Linux:  
-  1. Download [XAMPP](https://www.apachefriends.org/index.html)
+  1. Download [XAMPP for Linux](https://www.apachefriends.org/index.html)
   1. Locate the download directory and in the terminal type: **./xampp-linux---.run** . A Graphical interface pops up, which will guide you.
   1. After the installation has completed run XAMPP by going to the installation folder (usually _/opt/lampp_). Then  **./manager-linux-x64.run**.
   1. Start all the services. So with this all the tools are set up. 
 - Windows:
-  1. Download [XAMPP](https://www.apachefriends.org/index.html)
+  1. Download [XAMPP for Windows](https://www.apachefriends.org/index.html)
   1. Open the installer.
 
 With all the tools set up, now you can start using the app by following these steps:
