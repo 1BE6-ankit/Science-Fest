@@ -7,7 +7,7 @@ up the LAN is by connecting all the required computers physically to a Router. T
 sent.
 
 ## Setting up the software environment and running the app
-The server should have PHP installed before getting the app up and running. If not already installed, follow these steps to installed PHP in your system:
+The server should have PHP installed before getting the app up and running. If not already installed, follow these steps to install PHP in your system:
 - Linux:  
   1. Download [XAMPP for Linux](https://www.apachefriends.org/index.html)
   1. Locate the download directory and in the terminal type: **./xampp-linux---.run** . A Graphical interface pops up, which will guide you.
