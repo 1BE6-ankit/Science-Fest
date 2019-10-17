@@ -33,6 +33,12 @@ With all the tools set up, now you can start using the app by following these st
       1. In one window open localhost/Science-Fest/math-quiz/admin.php. Enter the required number of users and type the corresponding name (!! The player name should start from alphabets with no special characters). After typing the names you should see an UI for admin control panel. 
       1. Now in the other window type: localhost/Science-Fest/math-quiz/ . Press continue.
       1. From the admin control panel, Load a question and send it. Now you can see the client window loading the question. 
- 
+
+## Project By:
+Sanjeev KC https://github.com/1BB3
+
+Nabin Dhakal https://github.com/1BA4
+
+Ankit Koirala https://github.com/1BE6-ankit
        
          
